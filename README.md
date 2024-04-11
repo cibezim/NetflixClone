@@ -25,3 +25,7 @@ To run this project locally, follow these steps:
 - **HTML/CSS/JavaScript**: Core web technologies for structure, styling, and interactivity.
 - **APIs**: External APIs used for fetching movie and TV show data.
 - **Axios**: Library for making HTTP requests.
+
+## Deployment
+
+This project is deployed on [Netlify](https://cibezimstreamverse.netlify.app/).
